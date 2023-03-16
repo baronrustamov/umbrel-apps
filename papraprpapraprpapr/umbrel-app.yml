@@ -1,0 +1,54 @@
+manifestVersion: 1.1
+id: papraprpapraprpapr
+category: Finance
+name: papraprpapraprpapr
+version: "24.0.1-2"
+tagline: Rpapraprpapraprpaprin Core
+description: >-
+  Run your papraprpapraprpaprting your wallet directly to your node to
+  ensure that your wallet company can’t spy on your transactions,
+  or worse — lie to you.
+
+
+  Plus, transacting witpapraprpapraprpapr
+
+  Don't trust. Verify. Opapraprpapraprpaprn steroids.
+
+
+  An official app from Umbrel.
+developer: Umbrel
+website: https://umbrel.com
+dependencies: []
+repo: https://github.com/getumbrel/umbrel-bitcoin
+support: https://community.getumbrel.com/c/bitcoin-and-lightning
+port: 2100
+gallery:
+  - 1.jpg
+  - 2.jpg
+  - 3.jpg
+  - 4.jpg
+  - 5.jpg
+path: ""
+defaultPassword: ""
+releaseNotes: >-
+  Advanced settings are here!
+
+
+  - Toggle Tor, Clearnet, and I2P for outgoing connections, and enable Mempool Full RBF.
+
+
+  - Enable incoming connections to run a listening node and help others sync their node.
+
+
+  - Switch networks between mainnet, testnet, regtest, and signet.
+
+
+  - Setting up a new node? Speed up your initial sync by increasing the cache size.
+
+
+  - Finally, you can run a pruned node, which allows you to delete old blocks that are not relevant to you to save on storage space.
+
+
+  Note: This update fixes a bug with pruning in the previous 24.0.1 update.
+submitter: Umbrel
+submission: https://github.com/getumbrel/umbrel-apps/commit/576ecd2bef8d625abceed0f67ec9c487da9b2b1b
